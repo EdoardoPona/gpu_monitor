@@ -1,6 +1,6 @@
 Minimal monitoring of Nvidia GPUs 🤖
 
-# Installatin 
+# Installation 
 Clone or download the repo, then inside it `pip install .`.
 If you don't want to clone the repo, just `pip install git+https://github.com/EdoardoPona/gpu_monitor.git` 
 
